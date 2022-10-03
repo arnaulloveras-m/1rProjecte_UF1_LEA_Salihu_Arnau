@@ -1,0 +1,14 @@
+body {
+    height: 80%;
+}
+
+img {
+    float: left;
+    width: 5%;
+    margin: 0.2% 0 0 35%;
+}
+
+header {
+    background-color: blue;
+    height: 3rem;
+}
