@@ -13,6 +13,10 @@ header {
     height: 3rem;
 }
 
+.logo:hover{
+    background: linear-gradient(blue, red);
+}
+
 ul {
     background: red;
     border: 1px solid #7C7C7C;
@@ -92,4 +96,13 @@ ul{
 }
 .button:hover{
     background: linear-gradient(blue, lime);
+}
+
+.equips{
+    margin-right: 85%;
+    padding-bottom: 18%;
+    border: solid blue 5px;
+}
+.equips h3{
+    color: blue;
 }
