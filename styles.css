@@ -12,6 +12,9 @@ header {
     background-color: blue;
     height: 3rem;
 }
+.logo:hover{
+    background: linear-gradient(blue, red);
+}
 
 ul {
     background: red;
@@ -143,4 +146,10 @@ ul{
 }
 .button:hover{
     background: linear-gradient(blue, lime);
+}
+
+.equips{
+    border: solid blue 5px;
+    margin-right: 85%;
+    padding-bottom: 18%;
 }
