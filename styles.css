@@ -1,8 +1,7 @@
 body {
     height: 80%;
 }
-
-.logo {
+.logo{
     float: left;
     width: 4%;
     margin: 0.2% 0 0 35%;
@@ -150,8 +149,8 @@ ul{
 
 .equips{
     border: solid blue 5px;
-    margin-right: 85%;
-    padding-bottom: 18%;
+    float: left;
+    padding-bottom: 30%;
 }
 
 .peu {
@@ -161,6 +160,19 @@ ul{
     width: 100%;
     height:10%;
     background-color: blue;
+}
+
+.bucks{
+    width: 20%;
+    height: 15%;
+    float: bottom;
+}
+
+
+.bulls{
+    width: 20%;
+    height: 15%;
+    float: bottom;
 }
 
 .p_principal{
