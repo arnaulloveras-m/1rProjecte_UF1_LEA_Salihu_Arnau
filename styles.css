@@ -162,20 +162,6 @@ ul{
     background-color: blue;
 }
 
-.bucks{
-    width: 20%;
-    height: 15%;
-    float: left;
-}
-
-
-.bulls{
-    width: 20%;
-    height: 15%;
-    float: left;
-    margin: 0 0 0 20%;
-}
-
 .p_principal{
     text-align: center;
 }
@@ -211,7 +197,23 @@ ul{
 }
 
 .fotos{
-    display: inline;
-    width: 15%;
-    height: 20%;
+    float: left;
+    display: flex;
+}
+
+.bucks{
+    width: 20em;
+}
+.bulls{
+    width: 20em;
+}
+.gsw{
+    width: 20em;
+}
+.lakers{
+    width: 20em;
+}
+
+.btn{
+    margin: 0 25%;
 }
