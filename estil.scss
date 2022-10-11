@@ -1,0 +1,34 @@
+$grid-breakpoints: (
+        xs: 0,
+        sm: 576px,
+        md: 768px,
+        lg: 992px,
+        xl: 1200px,
+        xxl: 1400px
+);
+
+@media (max-width: 576px) {
+  .bucks, .bulls, .gsw, .lakers{
+    width: 5em;
+  }
+}
+@media (max-width: 768px) {
+  .bucks, .bulls, .gsw, .lakers{
+    width: 15em;
+  }
+}
+@media (max-width: 992px) {
+  .bucks, .bulls, .gsw, .lakers{
+    width: 20em;
+  }
+}
+@media (max-width: 1200px) {
+  .bucks, .bulls, .gsw, .lakers{
+    width: 27em;
+  }
+}
+@media (max-width: 1400px) {
+  .bucks, .bulls, .gsw, .lakers{
+    width: 33em;
+  }
+}

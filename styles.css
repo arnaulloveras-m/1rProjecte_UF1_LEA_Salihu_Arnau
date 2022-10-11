@@ -217,3 +217,35 @@ ul{
 .btn{
     margin: 0 25%;
 }
+
+@media (max-width: 575px) {
+    .bucks, .bulls, .gsw, .lakers{
+        width: 2em;
+    }
+}
+
+@media (min-width: 576px) {
+    .bucks, .bulls, .gsw, .lakers{
+        width: 5em;
+    }
+}
+@media (min-width: 768px) {
+    .bucks, .bulls, .gsw, .lakers{
+        width: 13em;
+    }
+}
+@media (min-width: 992px) {
+    .bucks, .bulls, .gsw, .lakers{
+        width: 15em;
+    }
+}
+@media (min-width: 1200px) {
+    .bucks, .bulls, .gsw, .lakers{
+        width: 17em;
+    }
+}
+@media (min-width: 1400px) {
+    .bucks, .bulls, .gsw, .lakers{
+        width: 20em;
+    }
+}
